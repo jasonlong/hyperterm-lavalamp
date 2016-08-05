@@ -1,0 +1,14 @@
+{
+  "name": "hyperterm-lavalamp",
+  "version": "1.0.0",
+  "description": "Lavalamp theme for Hyperterm",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "colors",
+    "lavalamp"
+  ],
+  "author": "Jason Long",
+  "license": "MIT"
+}
